@@ -1,4 +1,4 @@
-PawStore – Pet Supplies E-Commerce Platform
+# 🐾 PawStore – Pet Supplies E-Commerce Platform
 
 Student Name: R.A.N.Y.Ranasinghe
 Index Number: FC221028
