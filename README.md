@@ -1,7 +1,7 @@
 # 🐾 PawStore – Pet Supplies E-Commerce Platform
 
-Student Name: R.A.N.Y.Ranasinghe
-Index Number: FC221028
+**Student Name:** R.A.N.Y.Ranasinghe
+**Index Number:** FC221028
 
 A full-stack pet store web application built with **React** (frontend) and **Spring Boot** (backend). 
 This platform allows users to browse products for dogs, cats, and birds, manage a shopping cart, and perform authentication (login/signup).
